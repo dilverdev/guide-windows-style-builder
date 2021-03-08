@@ -1,0 +1,11 @@
+{
+  "title": "Guide Windows Style Builder",
+  "url": "",
+  "logo": {
+    "light": "/logo-light.svg",
+    "dark": "/logo-dark.svg"
+  },
+  "github": "dilvermg/guide-windows-style-builder",
+  "githubApi": "https://hostname/api/v3/repos/dilvermg/guide-windows-style-builder",
+  "twitter": "@dilvermg"
+}
