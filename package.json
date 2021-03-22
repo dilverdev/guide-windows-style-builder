@@ -10,6 +10,11 @@
   },
   "dependencies": {
     "@nuxt/content-theme-docs": "^0.10.1",
-    "nuxt": "^2.15.2"
+    "nuxt": "^2.15.2",
+    "vue-feather-icons": "^5.1.0"
+  },
+  "devDependencies": {
+    "sass": "^1.32.8",
+    "sass-loader": "10"
   }
 }
